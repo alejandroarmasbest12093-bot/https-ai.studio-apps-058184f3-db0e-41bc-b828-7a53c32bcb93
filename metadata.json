@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aegis Nexus",
+  "description": "Ultra-secure, AI-driven private network providing impenetrable corporate defense against all malware and cyber threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
